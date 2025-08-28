@@ -1,5 +1,5 @@
 notify:
-  description: "Send a whatsapp notification using Green API"
+  description: "Send a Zalo notification using Zalo Bot API"
   fields:
     message:
       description: The message to send

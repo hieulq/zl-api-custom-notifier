@@ -1,0 +1,12 @@
+{
+    "domain": "zalo",
+    "name": "Zalo notifier based on Zalo Bot API",
+    "codeowners": [
+    "@t0mer"
+    ],
+    "documentation": "https://github.com/hieulq/zl-api-custom-notifier",
+    "iot_class": "local_polling",
+    "issue_tracker": "https://github.com/hieulq/zl-api-custom-notifier/issues",
+    "requirements": ["python-zalo-bot"],
+    "version": "0.1.0"
+}
